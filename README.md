@@ -1,6 +1,6 @@
 ## PlanetZero
 
-We are Bronted Labs, a passionate team of students from Kiira College Butiki driven by a shared concern for our environment. PlanetZero is our project dedicated to empowering citizen scientists in the fight against pollution.
+We are Bronsted Labs, a passionate team of year three students from Kiira College Butiki,Uganda driven by a shared concern for our environment. [PlanetZero](planetzero.onrender.com) is our project dedicated to empowering citizen scientists in the fight against pollution.
 
 Through informative articles published here, authored by both our team and dedicated volunteers with expertise in various environmental fields, we aim to raise awareness, inspire action, and provide practical solutions to tackle this critical global issue.
 
