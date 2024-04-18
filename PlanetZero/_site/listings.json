@@ -2,11 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post_04/policy.html",
-      "/posts/post_05/talent.html",
-      "/posts/post_08/ai.html",
       "/posts/post_06/school.html",
+      "/posts/post_05/talent.html",
       "/posts/post_07/sports.html",
+      "/posts/post_04/policy.html",
+      "/posts/post_08/ai.html",
       "/posts/post_09/habits.html",
       "/posts/post_03/local.html",
       "/posts/post_02/social_media_article.html",
