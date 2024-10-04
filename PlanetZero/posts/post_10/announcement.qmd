@@ -1,0 +1,20 @@
+---
+title: "PlaneZero As A Collaborative Project:Our First collaboration"
+author: "Ochola Mark Joshua"
+date: "2024-08-04"
+categories: [announcement,news]
+---
+
+![](collab.webp)
+
+Wooo!!! It's been six months since our launch in early April this year, and a lot has taken place. We have improved our backend services, migrated to a stable server, and enhanced our user interface to make the site easier to use. Many features are still in progress.
+
+Our project, PlaneZero, is currently a blog, but our main aim has always been to create the first open-source platform dedicated to climate change and environmental protection issues. We promote citizen science and empower communities to do their part in preserving the environment and combating climate degradation through the works posted by our amazing community of members, partners, volunteers, and anyone with something to share as part of our mission.
+
+The successes and challenges we've encountered on our journey have motivated us to continue on this path. We invite anyone interested in any aspect of the project to come on board and help us accelerate our mission.
+
+Happy news today! We are excited to announce our first partner, The Climate Change Club of Kiira College Butiki, a school club with goals aligned with ours. This collaboration will enable us to continue executing our activities, accelerating our main objectives of climate action and environmental protection through the power of community.
+
+The Climate Change Club of Kiira College Butiki is dedicated to fostering awareness and action among students regarding climate change and environmental issues. Their objectives include educating peers about the impacts of climate change, organizing community outreach programs to promote sustainability practices, and collaborating with local organizations to implement eco-friendly initiatives. The club also aims to empower students to take leadership roles in environmental advocacy, encouraging them to develop projects that address climate-related challenges in their community. Through workshops, campaigns, and hands-on activities, the club strives to cultivate a culture of environmental stewardship among the youth.
+
+Footnote: *The author of this article is the Chairman of the PlaneZero project, a dedicated initiative focused on climate change awareness and environmental protection.*
