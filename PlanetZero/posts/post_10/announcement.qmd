@@ -1,7 +1,7 @@
 ---
 title: "PlaneZero As A Collaborative Project:Our First collaboration"
 author: "Ochola Mark Joshua"
-date: "2024-08-04"
+date: "2024-10-04"
 categories: [announcement,news]
 ---
 

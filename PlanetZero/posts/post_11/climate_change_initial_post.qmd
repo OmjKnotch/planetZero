@@ -1,7 +1,7 @@
 ---
 title: "First Communication from the Climate Change Club"
 author: "Nabongo Emmanuel"
-date: "2024-08-04"
+date: "2024-10-04"
 categories: [news]
 ---
 
@@ -16,4 +16,6 @@ However, significant changes began in the mid-20th century with the rise of indu
 As temperatures rise, we face a range of environmental challenges, including more frequent and severe weather events, rising sea levels, and disruptions to ecosystems.
 
 In conclusion, I urge everyone to adopt strategies for both mitigation—reducing greenhouse gas emissions—and adaptation—adjusting to the impacts of climate change. Together, we can work toward a more sustainable and equitable future.
+
+Footnote: *The author is the President of The Climate Change Club*
 
