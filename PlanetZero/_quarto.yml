@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - ads.txt
 
 website:
   title: "PlanetZero"
@@ -14,6 +16,11 @@ format:
   html:
     theme: pulse
     css: styles.css
+
+adsense:
+  publisher-id: pub-7125965431041896
+  filters:
+    - adsense
 
 
 
